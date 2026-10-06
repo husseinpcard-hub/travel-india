@@ -1,0 +1,8 @@
+{
+  "name": "India Travel Planner",
+  "description": "Plan customized Indian travel itineraries and view interactive district maps with offline support for your journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
